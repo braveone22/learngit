@@ -11,3 +11,5 @@ the 4th
 the 5th
 the 6th
 user ssh in bijiben
+test branch merge with fast-forward
+
