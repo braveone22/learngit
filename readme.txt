@@ -14,4 +14,5 @@ user ssh in bijiben
 test branch merge with fast-forward
 test branch merge with --no-ff
 test merge with --no-ff in dev branch 
+deal the issue-101
 
