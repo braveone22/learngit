@@ -1,1 +1,2 @@
 remote txt add
+我现在和learngit同级目录下玩耍
