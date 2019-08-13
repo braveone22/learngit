@@ -12,4 +12,4 @@ the 5th
 the 6th
 user ssh in bijiben
 test branch merge with fast-forward
-
+test branch merge with --no-ff
